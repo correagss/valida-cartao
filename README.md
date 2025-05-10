@@ -1,4 +1,4 @@
-# Validação cartão
+# Validação de cartão
 
 A ideia principal é detectar se o número do cartão é válido ou não através da teoria Luhn.
 
